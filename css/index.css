@@ -1,13 +1,10 @@
 h2 {
     text-align: center;
     color: rgba(58, 240, 228, 1);
+    margin-bottom: 5px;
 }
 
-h2 {
-    text-align: center;
-}
-
-h2 {
+h1 {
     text-align: center;
     color: rgb(43, 240, 17);
 }
